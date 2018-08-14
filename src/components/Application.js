@@ -11,7 +11,7 @@ import Styles from '../styles.css';
 const Application = () => (
   <div className={Styles.container}>
     <header className={Styles.header}>
-      <h1 className={Styles.header__title}>NOTEDDDDDDDD!!! HA HA !!</h1>
+      <h1 className={Styles.header__title}>HA HA !!</h1>
     </header>
     <NoteListContainer />
     <Switch>
